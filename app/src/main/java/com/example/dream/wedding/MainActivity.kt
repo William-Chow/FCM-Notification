@@ -48,6 +48,8 @@ class MainActivity : AppCompatActivity() {
                 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
                     requestPermissionLauncher.launch(android.Manifest.permission.POST_NOTIFICATIONS)
                 }
+            } else {
+                Snackbar.make(findViewById<View>(android.R.id.content).rootView, "Permission Granted!", Snackbar.LENGTH_LONG).show()
             }
         }
 
