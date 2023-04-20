@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "941293241980",
+    "project_id": "dream-wedding-185a6",
+    "storage_bucket": "dream-wedding-185a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941293241980:android:5ad8df6a960182768febf9",
+        "android_client_info": {
+          "package_name": "com.example.dream.wedding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941293241980-bsl8mocmkj47klbbkq20o7tceo56nh4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dream.wedding",
+            "certificate_hash": "cbf916310bcfe8d37d4ed1381e676efd4d600cd6"
+          }
+        },
+        {
+          "client_id": "941293241980-7ol1nia80c0a4vkccn38uehs2668pn5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu0UcwZIvgueLr5Svq63OZp5eIZKg0Uho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941293241980-7ol1nia80c0a4vkccn38uehs2668pn5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941293241980-6trscn5ldlk8bga5tte79cru18s2j47q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.auth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
